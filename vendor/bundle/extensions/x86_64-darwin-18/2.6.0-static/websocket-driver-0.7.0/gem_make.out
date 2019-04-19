@@ -1,0 +1,15 @@
+current directory: /Users/ogu/Desktop/tiy_app/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+/Users/ogu/.rbenv/versions/2.6.1/bin/ruby -I /Users/ogu/.rbenv/versions/2.6.1/lib/ruby/2.6.0 -r ./siteconf20190419-948-1lxn5p6.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ogu/Desktop/tiy_app/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/ogu/Desktop/tiy_app/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/ogu/Desktop/tiy_app/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20190419-948-a1qm9b
